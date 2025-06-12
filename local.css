@@ -1,0 +1,13 @@
+#caAccessControlList > div.globalAccess {
+	display: block;
+}
+#caAccessControlList > div > div.globalAccess {
+	display: none;
+}
+#editGlobalAccessLink {
+	display: none;
+}
+
+#editUserAccess a.caDeleteItemButton {
+	display: none !important;
+}
